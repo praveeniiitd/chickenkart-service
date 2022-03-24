@@ -67,7 +67,7 @@
 				<artifactId>heroku-maven-plugin</artifactId>
 				<version>2.0.3</version>
 				<configuration>
-					<appName>Chicken Kart</appName>
+					<appName>chickenkart-service</appName>
 					<includeTarget>false</includeTarget>
 					<includes>
 						<include>${project.build.directory}/${project.build.finalName}.jar</include>
