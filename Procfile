@@ -1,1 +1,1 @@
-java -Dserver.port=$PORT $JAVA_OPTS -jar target/chickenkart-0.0.1-SNAPSHOT.jar**
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/chickenkart-0.0.1-SNAPSHOT.jar**
